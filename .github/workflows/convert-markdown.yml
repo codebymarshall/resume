@@ -1,12 +1,12 @@
-name: Convert Markdown to PDF
+name: Convert Markdown to PDF and Release
 
 on:
   push:
     paths:
-      - '*.md'  # Trigger action when a Markdown file is pushed
+      - '*.md'  # Trigger when a Markdown file is pushed
 
 jobs:
-  convert:
+  convert_and_release:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,14 +19,34 @@ jobs:
     - name: Install Pandoc
       run: sudo apt-get install pandoc
 
+    - name: Get current version from Git tag
+      id: get_version
+      run: echo "VERSION=$(git describe --tags --abbrev=0 | sed 's/v//')" >> $GITHUB_ENV
+
+    - name: Increment version
+      id: increment_version
+      run: |
+        VERSION=${{ env.VERSION }}
+        VERSION_PARTS=(${VERSION//./ })
+        PATCH=${VERSION_PARTS[2]}
+        PATCH=$((PATCH+1))
+        NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$PATCH"
+        echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
+
+    - name: Tag new version
+      run: |
+        git tag -a "v${{ env.NEW_VERSION }}" -m "Release v${{ env.NEW_VERSION }}"
+        git push origin "v${{ env.NEW_VERSION }}"
+
     - name: Convert Markdown to PDF
       run: |
         for file in *.md; do
-          pandoc "$file" -o "${file%.md}.pdf"
+          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="Arial" --variable fontsize=12pt --variable geometry:margin=1in
         done
 
-    - name: Upload PDF as artifact
-      uses: actions/upload-artifact@v4
+    - name: Create a GitHub Release
+      uses: softprops/action-gh-release@v1
       with:
-        name: markdown-pdfs
-        path: '*.pdf'
+        files: '*.pdf'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
