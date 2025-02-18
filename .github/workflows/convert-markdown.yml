@@ -41,7 +41,7 @@ jobs:
     - name: Convert Markdown to PDF
       run: |
         for file in *.md; do
-          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="Arial" --variable fontsize=12pt --variable geometry:margin=1in
+          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="Arial" --variable fontsize=12pt --variable geometry:margin=1in --variable monofont="Courier" --variable sansfont="Arial" --variable documentclass="article"
         done
 
     - name: Create a GitHub Release
