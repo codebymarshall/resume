@@ -7,7 +7,7 @@
 
 ## EDUCATION
 
-**Master's Degree: Software Engineering, DevOps Engineering**    - Starting 04/01/2025 
+**Master's Degree: Software Engineering, DevOps Engineering**    - Starting 04/01/2025
 
 **Bachelor of Science in Software Engineering**                   - Western Governors University, 2025  
 
