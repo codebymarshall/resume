@@ -21,8 +21,8 @@ jobs:
 
     - name: Set up Git identity
       run: |
-      git config --global user.name "github-actions"
-      git config --global user.email "github-actions@github.com"
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
 
     - name: Get current version from Git tag
       id: get_version
