@@ -101,3 +101,4 @@
 - Writing automation scripts (Python, Shell, etc.)
 - API security
 - Devcontainers
+- Linux
