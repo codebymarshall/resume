@@ -31,12 +31,12 @@
 ### Android Management App with Local Database Integration
 
 - **Source:** [GitHub Repository](https://github.com/codebymarshall/mobile-app)  
-- **Technologies Used:** Android Studio (IDE), Java, Room Framework (SQLite Database), Android SDK (Version 34), Gradle Build System, Android Notification System, Git Version Control, XML (for layouts and configuration).
+- **Technologies Used:** Android Studio (IDE), Java, Room Framework (SQLite Database), Android SDK (Version 34), Gradle Build System, Android Notification System, Git Version Control, XML (for layouts and configuration)
 
 ### Cloud-Deployed E-Commerce App
 
 - **Source:** [GitHub Repository](https://github.com/codebymarshall/eccomerce-store)  
-- **Technologies Used:** Next.js, Tailwind CSS (for layouts and styling), Node.js, PostgreSQL, NextAuth.js, Stripe (Payments), AWS Elastic Beanstalk, AWS RDS (for cloud-hosted database).
+- **Technologies Used:** Next.js, Tailwind CSS (for layouts and styling), Node.js, PostgreSQL, NextAuth.js, Stripe (Payments), AWS Elastic Beanstalk, AWS RDS (for cloud-hosted database)
 
 ## EXPERIENCE
 
