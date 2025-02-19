@@ -102,4 +102,4 @@
 - API security
 - Devcontainers
 - Linux
-- Machine Learning
+- Machine Learning & AI
