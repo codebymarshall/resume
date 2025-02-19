@@ -5,6 +5,9 @@ on:
     paths:
       - '*.md'  # Trigger when a Markdown file is pushed
 
+permissions:
+  contents: write
+
 jobs:
   convert_and_release:
     runs-on: ubuntu-latest
