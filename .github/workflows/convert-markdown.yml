@@ -12,6 +12,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Debug Git Tags
+      run: |
+        git tag --list
+        git describe --tags --abbrev=0 || echo "No tags found"
 
     - name: Set up LaTeX for PDF generation
       run: sudo apt-get install texlive-xetex
@@ -26,16 +33,17 @@ jobs:
 
     - name: Get current version from Git tag
       id: get_version
-      run: echo "VERSION=$(git describe --tags --abbrev=0 | sed 's/v//')" >> $GITHUB_ENV
+      run: |
+        TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.1.0")
+        echo "VERSION=${TAG#v}" >> $GITHUB_ENV  # Remove 'v' prefix
 
     - name: Increment version
       id: increment_version
       run: |
         VERSION=${{ env.VERSION }}
-        VERSION_PARTS=(${VERSION//./ })
-        PATCH=${VERSION_PARTS[2]}
-        PATCH=$((PATCH+1))
-        NEW_VERSION="${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$PATCH"
+        IFS='.' read -r MAJOR MINOR PATCH <<< "$VERSION"
+        PATCH=$((PATCH + 1))
+        NEW_VERSION="$MAJOR.$MINOR.$PATCH"
         echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
 
     - name: Tag new version
@@ -52,6 +60,7 @@ jobs:
     - name: Create a GitHub Release
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: "v${{ env.NEW_VERSION }}"
         files: '*.pdf'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
