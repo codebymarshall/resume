@@ -19,6 +19,11 @@ jobs:
     - name: Install Pandoc
       run: sudo apt-get install pandoc
 
+    - name: Set up Git identity
+      run: |
+      git config --global user.name "github-actions"
+      git config --global user.email "github-actions@github.com"
+
     - name: Get current version from Git tag
       id: get_version
       run: echo "VERSION=$(git describe --tags --abbrev=0 | sed 's/v//')" >> $GITHUB_ENV
