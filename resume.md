@@ -4,6 +4,7 @@
 **Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)   
 **GitHub:** [github.com/codebymarshall](https://github.com/codebymarshall)  
 **LinkedIn:** [linkedin.com/in/codebymarshall](https://linkedin.com/in/codebymarshall)  
+**Portfolio:** [jonathanmarshall.xyz](https://jonathanmarshall.xyz)  
 
 ## EDUCATION
 
