@@ -1,7 +1,7 @@
 # Jonathan Marshall
 
 **Phone:** [+1 606-910-4215](tel:+16069104215)  
-**Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)
+**Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)  
 **GitHub:** [github.com/codebymarshall](https://github.com/codebymarshall)  
 **LinkedIn:** [linkedin.com/in/codebymarshall](https://linkedin.com/in/codebymarshall)  
 **Portfolio:** [jonathanmarshall.xyz](https://jonathanmarshall.xyz)  
@@ -37,10 +37,7 @@
 
 ## EXPERIENCE
 
-### MakersPlace  
-
-**Server Security & Community Manager**
-*1/22/2023 - 07/02/2024*
+**Server Security & Community Manager**, MakersPlace, *1/22/2023 - 07/02/2024*
 
 Led security and community engagement strategies for a high-profile EU client, increasing community-driven sales by 30%. Successfully sold out multiple mints, generating over $50,000+ in revenue for the client. Implemented automated security solutions to protect against bot and spam attacks, securing 100% of mints from unauthorized access.
 
@@ -49,10 +46,7 @@ Led security and community engagement strategies for a high-profile EU client, i
 - Managed Discord role assignments and user segmentation for a community of 1800+ members.
 - Provided direct technical support to community members, resolving 98% of issues within 24 hours.
 
-### The Estates
-
-**Project Community Manager**
-*4/21/2022 - 1/8/2023*
+**Project Community Manager**, The Estates, *4/21/2022 - 1/8/2023*
 
 Served as a key advisor to the core team and founder on security and community engagement, leading a team of 13 customer service agents. Developed custom Discord automation solutions to streamline operations and enhance security.
 
@@ -61,10 +55,7 @@ Served as a key advisor to the core team and founder on security and community e
 - Trained and onboarded 10+ new customer service agents, ensuring consistent community management.
 - Designed and executed cost-effective solutions that saved the project $5,000+ annually in operational expenses.
 
-### Staff Management  
-
-**Customer Service Representative & IT Support**  
-*2/2/2021 – 4/20/2022*  
+**Customer Service Representative & IT Support**, Staff Management,  *2/2/2021 – 4/20/2022*
 
 Assisted customers with booking appointments in a government system, providing support for basic technical issues related to system access and functionality.
 
@@ -72,10 +63,7 @@ Assisted customers with booking appointments in a government system, providing s
 - Resolved basic technical problems, such as system access issues and troubleshooting minor technical glitches.
 - Consistently achieved top performance, handling an average of 30+ client bookings per day, with a customer satisfaction rating of 95%, making me the highest-performing agent on the team.
 
-### Transcom North America  
-
-**IT Customer Service**  
-*9/4/2020 – 11/15/2020*  
+**IT Customer Service**, Transcom North America, *9/4/2020 – 11/15/2020*
 
 Provided IT support to customers, managing high-volume requests and ensuring smooth service delivery.
 
@@ -83,10 +71,7 @@ Provided IT support to customers, managing high-volume requests and ensuring smo
 - Facilitated software updates for 50+ customers weekly, minimizing downtime to less than 7%.
 - Responded to 20+ inquiries daily, ensuring exceptional service quality and resolving issues promptly.
 
-### Vidathletics  
-
-**Principal Coach**  
-*5/1/2017 – 8/22/2020*  
+**Principal Coach**, Vidathletics, *5/1/2017 – 8/22/2020*
 
 Led both fitness coaching and IT systems and infrastructure for Vidathletics, ensuring seamless digital operations and client success. Helped over 30+ clients lose a combined total of 600+ pounds, leveraging data-driven fitness plans and real-time progress tracking.
 
@@ -95,10 +80,7 @@ Led both fitness coaching and IT systems and infrastructure for Vidathletics, en
 - Mentored and trained 2+ new coaches quarterly on using IT systems for program management and client engagement.
 - Integrated technology solutions to streamline fitness tracking and enhance the client experience.
 
-### Youfit
-
-**Personal Trainer**
-*11/12/2016 - 04/22/2017*
+**Personal Trainer**, Youfit, *11/12/2016 - 04/22/2017*
 
 Led group fitness classes and provided personalized fitness and nutrition guidance to clients, helping them achieve their health and fitness goals. Converted several group participants to personal training clients through results-driven coaching and support.
 
@@ -107,10 +89,8 @@ Led group fitness classes and provided personalized fitness and nutrition guidan
 - Converted 15+ group class participants to personal training clients, boosting client retention by 40%.
 - Provided guidance on exercise techniques and injury prevention, improving client safety and workout effectiveness.
 
-### Blast Fitness and Performance Center
+**Personal Trainer Internship**, Blast Fitness and Performance Center, *06/01/2016- 12/18/2016*
 
-**Personal Trainer Internship**
-*06/01/2016- 12/18/2016*
 Gained hands-on experience in fitness assessments, client retention, program development, and small business management. Provided guidance to clients on fitness techniques, helping them achieve their goals efficiently and safely.
 
 - Designed and led 30+ small group training sessions, improving client fitness levels by 25% on average.
@@ -119,10 +99,7 @@ Gained hands-on experience in fitness assessments, client retention, program dev
 - Worked with senior trainers to refine exercise techniques and improve client results.
 - Developed and implemented 5+ customized fitness plans, addressing individual health concerns and optimizing performance.
 
-### Jotrick International Services  
-
-**Computer Technician Internship**  
-*6/1/2015 – 5/30/2016*  
+**Computer Technician Internship**, Jotrick International Services, *6/1/2015 – 5/30/2016*
 
 - Achieved a 98% setup accuracy rate for user access and hardware/software configuration, minimizing post-deployment troubleshooting.
 - Troubleshot and resolved office technical issues (e.g., printers and internet connections) for six employees within an average response time of 15 minutes.
