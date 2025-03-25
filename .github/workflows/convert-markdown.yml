@@ -31,12 +31,12 @@ jobs:
 
     - name: Download and install custom font
       run: |
-      mkdir -p ~/.fonts
-      wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
-      unzip Roboto.zip -d ~/.fonts
-      fc-cache -f -v
-      # List available fonts to verify installation
-      fc-list | grep -i roboto
+        mkdir -p ~/.fonts
+        wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
+        unzip Roboto.zip -d ~/.fonts
+        fc-cache -f -v
+        # List available fonts to verify installation
+        fc-list | grep -i roboto
 
     - name: Set up Git identity
       run: |
