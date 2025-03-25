@@ -1,10 +1,7 @@
 # Jonathan Marshall
 
-**Phone:** [+1 606-910-4215](tel:+16069104215)  
-**Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)  
-**GitHub:** [github.com/codebymarshall](https://github.com/codebymarshall)  
-**LinkedIn:** [linkedin.com/in/codebymarshall](https://linkedin.com/in/codebymarshall)  
-**Portfolio:** [jonathanmarshall.xyz](https://jonathanmarshall.xyz)  
+**Phone:** [+1 606-910-4215](tel:+16069104215) • **Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com) • **GitHub:** [github.com/codebymarshall](https://github.com/codebymarshall)  
+**LinkedIn:** [linkedin.com/in/codebymarshall](https://linkedin.com/in/codebymarshall) • **Portfolio:** [jonathanmarshall.xyz](https://jonathanmarshall.xyz)
 
 ## EDUCATION
 
@@ -59,7 +56,7 @@ Served as a key advisor to the core team and founder on security and community e
 
 Assisted customers with booking appointments in a government system, providing support for basic technical issues related to system access and functionality.
 
-- Helped over 450+ monthly customers navigate the state of New Jersey’s appointment booking system, ensuring they could successfully schedule appointments.
+- Helped over 450+ monthly customers navigate the state of New Jersey's appointment booking system, ensuring they could successfully schedule appointments.
 - Resolved basic technical problems, such as system access issues and troubleshooting minor technical glitches.
 - Consistently achieved top performance, handling an average of 30+ client bookings per day, with a customer satisfaction rating of 95%, making me the highest-performing agent on the team.
 
