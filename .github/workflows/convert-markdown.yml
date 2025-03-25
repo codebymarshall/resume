@@ -29,6 +29,15 @@ jobs:
     - name: Install Pandoc
       run: sudo apt-get install pandoc
 
+    - name: Download and install custom font
+      run: |
+      mkdir -p ~/.fonts
+      wget -O Roboto.zip https://fonts.google.com/download?family=Roboto
+      unzip Roboto.zip -d ~/.fonts
+      fc-cache -f -v
+      # List available fonts to verify installation
+      fc-list | grep -i roboto
+
     - name: Set up Git identity
       run: |
         git config --global user.name "github-actions"
@@ -57,7 +66,7 @@ jobs:
     - name: Convert Markdown to PDF
       run: |
         for file in *.md; do
-          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="TeX Gyre Heros" --variable fontsize=12pt --variable geometry:margin=1in --variable monofont="Courier" --variable sansfont="TeX Gyre Heros" --variable documentclass="article"
+          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="Roboto" --variable fontsize=12pt --variable geometry:margin=0.5in --variable monofont="Roboto Mono" --variable sansfont="Roboto" --variable documentclass="article"
         done
 
     - name: Create a GitHub Release
