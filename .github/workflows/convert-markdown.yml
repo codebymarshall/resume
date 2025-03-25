@@ -31,7 +31,7 @@ jobs:
 
     - name: Download and install custom font
       run: |
-        sudo apt-get install -y fonts-roboto fonts-roboto-slab fonts-roboto-fontface
+        sudo apt-get install -y fonts-roboto fonts-ubuntu fonts-dejavu
         
         # Verify font installation
         fc-list | grep -i roboto
@@ -64,7 +64,7 @@ jobs:
     - name: Convert Markdown to PDF
       run: |
         for file in *.md; do
-          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="Roboto" --variable fontsize=12pt --variable geometry:margin=0.5in --variable monofont="Roboto Mono" --variable sansfont="Roboto" --variable documentclass="article"
+          pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex --variable mainfont="Roboto" --variable fontsize=12pt --variable geometry:margin=0.5in --variable monofont="Ubuntu Mono" --variable sansfont="Roboto" --variable documentclass="article"
         done
 
     - name: Create a GitHub Release
