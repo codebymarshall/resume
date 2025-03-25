@@ -28,6 +28,7 @@
 - American Red Cross, AED, First Aid
 - NASM Weight Loss Specialist
 - NASM Performance Enhancement Specialist
+- NASM Corrective Exercise Specialist
 
 ## PROJECTS
 
