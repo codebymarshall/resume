@@ -29,6 +29,7 @@
 - NASM Weight Loss Specialist
 - NASM Performance Enhancement Specialist
 - NASM Corrective Exercise Specialist
+- NASM Personal Trainer
 
 ## PROJECTS
 
