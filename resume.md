@@ -1,7 +1,8 @@
 # Jonathan Marshall
 
-**Phone:** [+1 606-910-4215](tel:+16069104215) • **Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com) • **GitHub:** [github.com/codebymarshall](https://github.com/codebymarshall)  
-**LinkedIn:** [linkedin.com/in/codebymarshall](https://linkedin.com/in/codebymarshall) • **Portfolio:** [jonathanmarshall.xyz](https://jonathanmarshall.xyz)
+**Phone:** [+1 606-910-4215](tel:+16069104215)  
+**Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)  
+**Web:** [GitHub](https://github.com/codebymarshall) • [LinkedIn](https://linkedin.com/in/codebymarshall) • [Portfolio](https://jonathanmarshall.xyz)
 
 ## EDUCATION
 
