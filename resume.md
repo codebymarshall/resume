@@ -30,6 +30,7 @@
 - NASM Performance Enhancement Specialist
 - NASM Corrective Exercise Specialist
 - NASM Personal Trainer
+- Dr. Sears Health Coach
 
 ## PROJECTS
 
