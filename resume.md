@@ -26,6 +26,7 @@
 - Google IT Support Specialist
 - Institute of Certified Professional Managers Certified Supervisor
 - American Red Cross, AED, First Aid
+- NASM Weight Loss Specialist
 
 ## PROJECTS
 
