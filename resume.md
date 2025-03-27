@@ -22,18 +22,29 @@
 
 ## PROJECTS
 
-### Android Management App with Local Database Integration
+**ResumeAI: Resume Optimization Tool** - [Demo](https://resume-pilot-fp94.vercel.app/) | *Next.js, FastAPI, BERT, Python, TypeScript, Docker, Tailwind CSS, PyPDF2, NLTK, scikit-learn, spaCy*  
+AI-powered platform that matches candidate resumes with job descriptions, providing precision skill matching and reducing review time by 75%. *Private repo, code samples available upon request.*
 
-- **Source:** [GitHub Repository](https://github.com/codebymarshall/mobile-app)  
-- **Technologies Used:** Android Studio (IDE), Java, Room Framework (SQLite Database), Android SDK (Version 34), Gradle Build System, Android Notification System, Git Version Control, XML (for layouts and configuration)
+**Android Management App** - [GitHub](https://github.com/codebymarshall/mobile-app) | *Java, Room Framework (SQLite), Android SDK, Gradle, XML*  
+Mobile application with local database integration featuring responsive UI, real-time notifications, and offline capabilities.
 
-### Cloud-Deployed E-Commerce App
+**E-Commerce Platform** - [Demo](https://eccomerce-store-nine.vercel.app/) | *Next.js, Node.js, PostgreSQL, NextAuth, Stripe, Tailwind CSS*  
+Full-featured store with authentication, product management, and payment processing. *Private repo, code samples available upon request.*
 
-- **Source:** [GitHub Repository](https://github.com/codebymarshall/eccomerce-store)
-- **Website** [E-commerce Demo](https://eccomerce-store-nine.vercel.app/)
-- **Technologies Used:** Next.js, Tailwind CSS (for layouts and styling), Node.js, PostgreSQL (Hosted on Neon), NextAuth.js (Authentication), Stripe (Test Payments), Vercel
+**Portfolio Website** - [jonathanmarshall.xyz](https://jonathanmarshall.xyz) | *Svelte 5, Tailwind CSS, Node.js*  
+Personal site showcasing projects and skills with responsive design for all device sizes. *Private repo, code samples available upon request.*
 
 ## EXPERIENCE
+
+**Software Development Portfolio Builder**, Self-directed  *10/05/2024 - 03/27/2025*
+
+Designed and developed production-quality applications showcasing professional software engineering capabilities:
+
+- Built responsive web applications (e-commerce platform, portfolio site) using Next.js, Svelte, and modern authentication
+- Engineered mobile applications with Java, implementing local database integration and notification systems
+- Developed AI tools leveraging NLP, machine learning, and BERT models for resume optimization
+- Implemented DevOps best practices: CI/CD pipelines, containerization, git version control, and cloud deployment
+- Created cross-platform development environments using dev containers and Docker for consistent coding across Windows, Linux, and MacOS
 
 **Server Security & Community Manager**, MakersPlace, *1/22/2023 - 07/02/2024*
 
