@@ -36,7 +36,7 @@ Personal site showcasing projects and skills with responsive design for all devi
 
 ## EXPERIENCE
 
-**Software Development Portfolio Builder**, Self-directed  *10/05/2024 - 03/27/2025*
+**Software Development Portfolio Builder**, Self-directed, *10/05/2024 - 03/27/2025*
 
 Designed and developed production-quality applications showcasing professional software engineering capabilities:
 
