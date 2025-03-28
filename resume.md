@@ -10,6 +10,8 @@
 
 **Bachelor of Science in Software Engineering**                   - Western Governors University, 2025  
 
+**Career Diploma: Medical Billing and Coding** - Penn Foster University, 2021
+
 **High School Diploma**                                                   - Penn Foster High School, 2016  
 
 ## CERTIFICATIONS
