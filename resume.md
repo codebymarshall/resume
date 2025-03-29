@@ -74,9 +74,9 @@ Assisted customers with booking appointments in a government system, providing s
 - Resolved basic technical problems, such as system access issues and troubleshooting minor technical glitches.
 - Consistently achieved top performance, handling an average of 30+ client bookings per day, with a customer satisfaction rating of 95%, making me the highest-performing agent on the team.
 
-**IT Customer Service**, Transcom North America, *9/4/2020 – 11/15/2020*
+**IT Customer Service** - Contracted To Apple, Transcom North America, *9/4/2020 – 11/15/2020*
 
-Provided IT support to customers, managing high-volume requests and ensuring smooth service delivery.
+Provided IT support to Apple customers, managing high-volume requests and ensuring smooth service delivery.
 
 - Handled 200+ customer requests monthly, maintaining a 91%+ customer satisfaction rating.
 - Facilitated software updates for 50+ customers weekly, minimizing downtime to less than 7%.
