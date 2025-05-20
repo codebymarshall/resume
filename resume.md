@@ -38,6 +38,13 @@ Personal site showcasing projects and skills with responsive design for all devi
 
 ## EXPERIENCE
 
+**Citi ICG Technology Software Development Job Simulation on Forage**, Self-directed - *05/20/2025*
+
+ - Completed a job simulation involving hypothetical tasks to improve Citi's loan management system and stock market risk reporting
+ - Created a state diagram of the loan management process using the Unified Modeling Language (UML) 
+ - Researched potential machine learning systems to assess credit risk and provided recommendations for next steps 
+ - Used Java to build an internal tool visualizing stock market risk in real time
+
 **Software Development Portfolio Builder**, Self-directed, *10/05/2024 - 03/27/2025*
 
 Designed and developed production-quality applications showcasing professional software engineering capabilities:
