@@ -1,6 +1,6 @@
 # Jonathan Marshall
 
-**Phone:** [+1 606-910-4215](tel:+16069104215)  
+**Phone:** [+1 737-529-3240](tel:+17375293240)  
 **Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)  
 **Web:** [GitHub](https://github.com/codebymarshall) • [LinkedIn](https://linkedin.com/in/codebymarshall) • [Portfolio](https://jonathanmarshall.xyz)
 
