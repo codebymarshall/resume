@@ -6,13 +6,13 @@
 
 ## EDUCATION
 
-**Master's Degree: Software Engineering, DevOps Engineering**    - Starting 04/01/2025
+**Master of Science – Computer Science**, Western Governors University, 2025
 
-**Bachelor of Science in Software Engineering**                   - Western Governors University, 2025  
+**Bachelor of Science – Software Engineering**, Western Governors University, 2025  
 
-**Career Diploma: Medical Billing and Coding** - Penn Foster University, 2021
+**Career Diploma – Medical Billing and Coding**, Penn Foster University, 2021
 
-**High School Diploma**                                                   - Penn Foster High School, 2016  
+**High School Diploma**, Penn Foster High School, 2016
 
 ## CERTIFICATIONS
 
@@ -22,30 +22,37 @@
 
 **Health & Fitness:** NASM Personal Trainer • NASM Weight Loss Specialist • NASM Performance Enhancement Specialist • NASM Corrective Exercise Specialist • Dr. Sears Health Coach • American Red Cross, AED, First Aid
 
+## Research Interests
+
+Distributed systems, AI infrastructure, applied machine learning, system-level optimization, and automation in computational environments.
+
 ## PROJECTS
 
 **ResumeAI: Resume Optimization Tool** - [Demo](https://resume-pilot-fp94.vercel.app/) | *Next.js, FastAPI, BERT, Python, TypeScript, Docker, Tailwind CSS, PyPDF2, NLTK, scikit-learn, spaCy*  
-AI-powered platform that matches candidate resumes with job descriptions, providing precision skill matching and reducing review time by 75%. *Private repo, code samples available upon request.*
+AI-powered platform that matches candidate resumes with job descriptions, providing precision skill matching and reducing review time by 75%. Designed data pipeline and model evaluation framework similar to applied machine learning research. *Private repo, code samples available upon request.*
 
 **Android Management App** - [GitHub](https://github.com/codebymarshall/mobile-app) | *Java, Room Framework (SQLite), Android SDK, Gradle, XML*  
-Mobile application with local database integration featuring responsive UI, real-time notifications, and offline capabilities.
+Mobile application with local database integration featuring responsive UI, real-time notifications, and offline capabilities. Designed architecture for offline-first reliability testing, aligning with ubiquitous computing concepts.
 
 **E-Commerce Platform** - [Demo](https://eccomerce-store-nine.vercel.app/) | *Next.js, Node.js, PostgreSQL, NextAuth, Stripe, Tailwind CSS*  
-Full-featured store with authentication, product management, and payment processing. *Private repo, code samples available upon request.*
+Full-featured store with authentication, product management, and payment processing. Used modular architecture and API security audits — experience relevant to systems reliability research. *Private repo, code samples available upon request.*
 
 **Portfolio Website** - [jonathanmarshall.xyz](https://jonathanmarshall.xyz) | *Svelte 5, Tailwind CSS, Node.js*  
 Personal site showcasing projects and skills with responsive design for all device sizes. *Private repo, code samples available upon request.*
 
 ## EXPERIENCE
 
-**Citi ICG Technology Software Development Job Simulation on Forage**, Self-directed - *05/20/2025*
+**Server Security & Community Manager**, Trilitech - *Aug 2025 – Present*
+Developed custom security bots, automated moderation, and deployed community tools that reduced spam incidents by 95%. Demonstrated expertise in distributed automation systems and real-time event handling.
 
- - Completed a job simulation involving hypothetical tasks to improve Citi's loan management system and stock market risk reporting
- - Created a state diagram of the loan management process using the Unified Modeling Language (UML) 
- - Researched potential machine learning systems to assess credit risk and provided recommendations for next steps 
- - Used Java to build an internal tool visualizing stock market risk in real time
+**Citi ICG Technology Software Development Job Simulation on Forage**, Self-directed - *May 2025*
 
-**Software Development Portfolio Builder**, Self-directed, *05/10/2024 - 03/27/2025*
+- Completed a job simulation involving hypothetical tasks to improve Citi's loan management system and stock market risk reporting
+- Created a state diagram of the loan management process using the Unified Modeling Language (UML)
+- Researched potential machine learning systems to assess credit risk and provided recommendations for next steps
+- Used Java to build an internal tool visualizing stock market risk in real time
+
+**Software Development Portfolio Builder**, Self-directed, *May 2024 – March 2025*
 
 Designed and developed production-quality applications showcasing professional software engineering capabilities:
 
@@ -55,7 +62,7 @@ Designed and developed production-quality applications showcasing professional s
 - Implemented DevOps best practices: CI/CD pipelines, containerization, git version control, and cloud deployment
 - Created cross-platform development environments using dev containers and Docker for consistent coding across Windows, Linux, and MacOS
 
-**Server Security & Community Manager**, MakersPlace, *1/22/2023 - 07/02/2024*
+**Server Security & Community Manager**, MakersPlace, *Jan 2023 – Jul 2024*
 
 Led security and community engagement strategies for a high-profile EU client, increasing community-driven sales by 30%. Successfully sold out multiple mints, generating over $50,000+ in revenue for the client. Implemented automated security solutions to protect against bot and spam attacks, securing 100% of mints from unauthorized access.
 
@@ -64,7 +71,7 @@ Led security and community engagement strategies for a high-profile EU client, i
 - Managed Discord role assignments and user segmentation for a community of 1800+ members.
 - Provided direct technical support to community members, resolving 98% of issues within 24 hours.
 
-**Project Community Manager**, The Estates, *4/21/2022 - 1/8/2023*
+**Project Community Manager**, The Estates, *Apr 2022 – Jan 2023*
 
 Served as a key advisor to the core team and founder on security and community engagement, leading a team of 13 customer service agents. Developed custom Discord automation solutions to streamline operations and enhance security.
 
@@ -73,7 +80,7 @@ Served as a key advisor to the core team and founder on security and community e
 - Trained and onboarded 10+ new customer service agents, ensuring consistent community management.
 - Designed and executed cost-effective solutions that saved the project $5,000+ annually in operational expenses.
 
-**Customer Service Representative & IT Support**, Staff Management,  *2/2/2021 – 4/20/2022*
+**Customer Service Representative & IT Support**, Staff Management,  *Feb 2021 – Apr 2022*
 
 Assisted customers with booking appointments in a government system, providing support for basic technical issues related to system access and functionality.
 
@@ -81,7 +88,7 @@ Assisted customers with booking appointments in a government system, providing s
 - Resolved basic technical problems, such as system access issues and troubleshooting minor technical glitches.
 - Consistently achieved top performance, handling an average of 30+ client bookings per day, with a customer satisfaction rating of 95%, making me the highest-performing agent on the team.
 
-**IT Customer Service** - Contracted To Apple, Transcom North America, *9/4/2020 – 11/15/2020*
+**IT Customer Service** - Contracted To Apple, Transcom North America, *Sep 2020 – Nov 2020*
 
 Provided IT support to Apple customers, managing high-volume requests and ensuring smooth service delivery.
 
@@ -89,7 +96,7 @@ Provided IT support to Apple customers, managing high-volume requests and ensuri
 - Facilitated software updates for 50+ customers weekly, minimizing downtime to less than 7%.
 - Responded to 20+ inquiries daily, ensuring exceptional service quality and resolving issues promptly.
 
-**Principal Coach**, Vidathletics, *5/1/2017 – 8/22/2020*
+**Principal Coach**, Vidathletics, *May 2017 – Aug 2020*
 
 Led both fitness coaching and IT systems and infrastructure for Vidathletics, ensuring seamless digital operations and client success. Helped over 30+ clients lose a combined total of 600+ pounds, leveraging data-driven fitness plans and real-time progress tracking.
 
@@ -98,7 +105,7 @@ Led both fitness coaching and IT systems and infrastructure for Vidathletics, en
 - Mentored and trained 2+ new coaches quarterly on using IT systems for program management and client engagement.
 - Integrated technology solutions to streamline fitness tracking and enhance the client experience.
 
-**Personal Trainer**, Youfit, *11/12/2016 - 04/22/2017*
+**Personal Trainer**, Youfit, *Nov 2016 – Apr 2017*
 
 Led group fitness classes and provided personalized fitness and nutrition guidance to clients, helping them achieve their health and fitness goals. Converted several group participants to personal training clients through results-driven coaching and support.
 
@@ -107,7 +114,7 @@ Led group fitness classes and provided personalized fitness and nutrition guidan
 - Converted 15+ group class participants to personal training clients, boosting client retention by 40%.
 - Provided guidance on exercise techniques and injury prevention, improving client safety and workout effectiveness.
 
-**Personal Trainer Internship**, Blast Fitness and Performance Center, *06/01/2016- 12/18/2016*
+**Personal Trainer Internship**, Blast Fitness and Performance Center, *Aug 2016 – Dec 2016*
 
 Gained hands-on experience in fitness assessments, client retention, program development, and small business management. Provided guidance to clients on fitness techniques, helping them achieve their goals efficiently and safely.
 
@@ -117,7 +124,7 @@ Gained hands-on experience in fitness assessments, client retention, program dev
 - Worked with senior trainers to refine exercise techniques and improve client results.
 - Developed and implemented 5+ customized fitness plans, addressing individual health concerns and optimizing performance.
 
-**Computer Technician Internship**, Jotrick International Services, *6/1/2015 – 5/30/2016*
+**Computer Technician Internship**, Jotrick International Services, *Jun 2015 – May 2016*
 
 - Achieved a 98% setup accuracy rate for user access and hardware/software configuration, minimizing post-deployment troubleshooting.
 - Troubleshot and resolved office technical issues (e.g., printers and internet connections) for six employees within an average response time of 15 minutes.
@@ -125,4 +132,29 @@ Gained hands-on experience in fitness assessments, client retention, program dev
 
 ## SKILLS AND TECHNOLOGIES
 
-Microsoft Office Suite • Help Desk • Ticketing System • Network Security Groups • Firewalls • ACLs (Access Control Lists) • Virtual Machines • Virtual Networks • Cloud Computing • Active Directory • File Permissions • Windows 10, Windows 11 • Java, Python, JavaScript, Bash • Object-Oriented Programming, Functional Programming • HTML5, CSS3, React, Angular, Spring Framework • Node.js, AWS, Google Cloud, Docker • Cloud-Native Application Development • MySQL • Git, GitHub, GitLab • Debugging and performance tuning for applications • Writing automation scripts (Python, Shell, etc.) • API security • Devcontainers • Linux
+**Programming Languages:**
+Java • Python • JavaScript • TypeScript • Bash • HTML5 • CSS3
+
+**Frameworks & Libraries:**
+Spring Framework • FastAPI • Next.js • Svelte • React • Angular • Android SDK • Tailwind CSS
+
+**Databases & Data Management:**
+PostgreSQL • MySQL • SQLite • Room Framework (SQLite for Android) • Data Modeling • Query Optimization
+
+**AI & Machine Learning:**
+BERT • spaCy • scikit-learn • NLTK • TensorFlow • Applied AI • Natural Language Processing (NLP) • Model Evaluation • Data Preprocessing
+
+**Cloud & DevOps:**
+AWS (EC2, S3, Lambda) • Google Cloud Platform • Docker • CI/CD Pipelines • GitHub Actions • Dev Containers • Cloud-Native Application Development • Virtual Machines • Virtual Networks
+
+**Systems & Security:**
+Linux (Ubuntu, Artix) • Windows 10/11 • Active Directory • File Permissions • Network Security Groups • Firewalls • ACLs (Access Control Lists) • API Security • System Hardening
+
+**Development Tools & Version Control:**
+Git • GitHub • GitLab • VS Code • IntelliJ IDEA • Gradle • Node.js • npm/yarn • Debugging & Performance Tuning
+
+**IT & Technical Support:**
+Help Desk Operations • Ticketing Systems • Troubleshooting • Technical Documentation • System Deployment • End-User Training
+
+**Productivity & Collaboration:**
+Microsoft Office Suite • Google Workspace • Discord Administration • Jira • Slack • Notion
