@@ -43,6 +43,7 @@ Personal site showcasing projects and skills with responsive design for all devi
 ## EXPERIENCE
 
 **Server Security & Community Manager**, Trilitech - *Aug 2025 – Present*
+
 Developed custom security bots, automated moderation, and deployed community tools that reduced spam incidents by 95%. Demonstrated expertise in distributed automation systems and real-time event handling.
 
 **Citi ICG Technology Software Development Job Simulation on Forage**, Self-directed - *May 2025*
