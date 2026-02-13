@@ -2,7 +2,7 @@
 
 **Phone:** [+1 832-837-5839](tel:+18328375839)  
 **Email:** [jonathanmarshall.it@protonmail.com](mailto:jonathanmarshall.it@protonmail.com)  
-**Web:** [GitHub](https://github.com/codebymarshall) • [LinkedIn](https://linkedin.com/in/codebymarshall) • [Portfolio](https://jonathanmarshall.xyz)
+**Web:** [GitHub](https://github.com/codebymarshall) • [LinkedIn](https://linkedin.com/in/codebymarshall) • [Portfolio](https://portfolio-website-c5d.pages.dev/)
 
 ## EDUCATION
 
@@ -37,12 +37,12 @@ Mobile application with local database integration featuring responsive UI, real
 **E-Commerce Platform** - [Demo](https://eccomerce-store-nine.vercel.app/) | *Next.js, Node.js, PostgreSQL, NextAuth, Stripe, Tailwind CSS*  
 Full-featured store with authentication, product management, and payment processing. Used modular architecture and API security audits — experience relevant to systems reliability research. *Private repo, code samples available upon request.*
 
-**Portfolio Website** - [jonathanmarshall.xyz](https://jonathanmarshall.xyz) | *Svelte 5, Tailwind CSS, Node.js*  
+**Portfolio Website** - [Portfolio](https://portfolio-website-c5d.pages.dev/) | *Svelte 5, Tailwind CSS, Node.js*  
 Personal site showcasing projects and skills with responsive design for all device sizes. *Private repo, code samples available upon request.*
 
 ## EXPERIENCE
 
-**Server Security & Community Manager**, Trilitech - *Aug 2025 – Present*
+**Server Security & Community Manager**, Trilitech - *Aug 2025 – Jan 2026*
 
 Developed custom security bots, automated moderation, and deployed community tools that reduced spam incidents by 95%. Demonstrated expertise in distributed automation systems and real-time event handling.
 
